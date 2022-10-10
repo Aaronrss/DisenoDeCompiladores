@@ -1,0 +1,3 @@
+SELECT * FROM table_name;
+SELECT nombre FROM PERSONAS;
+SELECT nombre,apellido FROM PERSONAS;

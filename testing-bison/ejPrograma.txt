@@ -1,0 +1,11 @@
+program mio 
+
+int  numero;
+float precio;
+endVars 
+
+numero = 5;
+precio = 2.50;
+endAsigns;
+
+end mio

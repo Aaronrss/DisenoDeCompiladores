@@ -1,0 +1,5 @@
+G = {V,T,P,S}
+
+V = {S, ENCABEZADO, DECLARAVARIABLES, ASIGNACIONES, FINAL, VARIABLE, LISTAVARS, ASIGNA, LISTAASIGNS}
+
+T = {prograam, id, tipo, endVars, ;, =, valor, endAsigns, end}
