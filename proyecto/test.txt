@@ -1,0 +1,22 @@
+inicio
+    estructura eAAe
+        entero vBBv = 1
+    estructuraTermina
+
+    funcion fCCf ()
+        doble vDDv = 1.1
+    funcionTermina
+
+    funcion fDDf ("a")
+        booleano vaav = "falso"
+    funcionTermina
+
+
+    vcontadorv = 0
+    mientras (vcontadorv noes 1)
+        si ( vcontadorv == 1 )
+            escribir("text")
+            vcontadorv + 1
+        siTermina
+    mientrasTermina
+fin
